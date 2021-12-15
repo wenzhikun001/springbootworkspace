@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="010-springboot-dubbo-redis-zookeeper-mybatis-jsp-provider" />
+        <module name="008-springboot-redis" />
+        <module name="006-springboot-transactional" />
+        <module name="002-springboot-first" />
+        <module name="010-springboot-dubbo-redis-zookeeper-mybatis-jsp-consumer" />
+        <module name="009-springboot-dubbo-interface" />
+        <module name="009-springboot-dubbo-provider" />
+        <module name="001-springboot-first" />
+        <module name="005-springboot-mybatis-2" />
+        <module name="005-springboot-mybatis-1" />
+        <module name="003-springboot-coustom-configuration-properties" />
+        <module name="003-springboot-custom-configuration-properties" />
+        <module name="010-springboot-duboo-redis-zookeeper-mybatis-jsp-interface" />
+        <module name="004-springboot-jsp" />
+        <module name="009-springboot-dubbo-consumer" />
+        <module name="008-springboot-redis-hcct" />
+        <module name="007-springboot-other-springmvc-annotation" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="001-springboot-first" target="1.8" />
+      <module name="002-springboot-first" target="1.8" />
+      <module name="003-springboot-coustom-configuration-properties" target="1.8" />
+      <module name="003-springboot-custom-configuration-properties" target="1.8" />
+      <module name="003-springboot-custom-configuration-value" target="1.8" />
+      <module name="004-springboot-first" target="1.8" />
+      <module name="004-springboot-jsp" target="1.8" />
+      <module name="005-springboot-mybatis-1" target="1.8" />
+      <module name="005-springboot-mybatis-2" target="1.8" />
+      <module name="006-springboot-transactional" target="1.8" />
+      <module name="007-springboot-other-springmvc-annotation" target="1.8" />
+      <module name="008-springboot-redis" target="1.8" />
+      <module name="008-springboot-redis-hcct" target="1.8" />
+      <module name="009-springboot-dubbo-consumer" target="1.8" />
+      <module name="009-springboot-dubbo-interface" target="1.8" />
+      <module name="009-springboot-dubbo-provider" target="1.8" />
+      <module name="010-springboot-dubbo-redis-zookeeper-mybatis-jsp-consumer" target="1.8" />
+      <module name="010-springboot-dubbo-redis-zookeeper-mybatis-jsp-provider" target="1.8" />
+      <module name="010-springboot-duboo-redis-zookeeper-mybatis-jsp-interface" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="001-springboot-first" options="-parameters" />
+      <module name="002-springboot-first" options="-parameters" />
+      <module name="003-springboot-coustom-configuration-properties" options="-parameters" />
+      <module name="003-springboot-custom-configuration-properties" options="-parameters" />
+      <module name="003-springboot-custom-configuration-value" options="-parameters" />
+      <module name="004-springboot-first" options="-parameters" />
+      <module name="004-springboot-jsp" options="-parameters" />
+      <module name="005-springboot-mybatis-1" options="-parameters" />
+      <module name="005-springboot-mybatis-2" options="-parameters" />
+      <module name="006-springboot-transactional" options="-parameters" />
+      <module name="007-springboot-other-springmvc-annotation" options="-parameters" />
+      <module name="008-springboot-redis" options="-parameters" />
+      <module name="008-springboot-redis-hcct" options="-parameters" />
+      <module name="009-springboot-dubbo-consumer" options="-parameters" />
+      <module name="009-springboot-dubbo-provider" options="-parameters" />
+      <module name="010-springboot-dubbo-redis-zookeeper-mybatis-jsp-consumer" options="-parameters" />
+      <module name="010-springboot-dubbo-redis-zookeeper-mybatis-jsp-provider" options="-parameters" />
+    </option>
+  </component>
+</project>

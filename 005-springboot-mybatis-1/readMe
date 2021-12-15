@@ -1,0 +1,17 @@
+SpringBoot 框架集成MyBatis思路
+1、添加依赖(MyBatis、连接数据库的驱动)
+2、连接数据库的配置
+3、通过MyBatis逆向工程生成：数据持久层和实体bean
+
+
+DROP TABLE IF EXISTS student;
+CREATE TABLE `student` (
+  `id` int NOT NULL AUTO_INCREMENT,
+  `user_name` varchar(30) CHARACTER SET utf8 COLLATE utf8_general_mysql500_ci DEFAULT NULL,
+  `user_password` varchar(30) CHARACTER SET utf8 COLLATE utf8_general_mysql500_ci DEFAULT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB AUTO_INCREMENT=0 DEFAULT CHARSET=utf8 COLLATE=utf8_general_mysql500_ci;
+INSERT INTO `student` (`id`, `user_name`, `user_password`) VALUES ('1', 'zhangsan', 'zhangsan');
+INSERT INTO `student` (`id`, `user_name`, `user_password`) VALUES ('2', 'lisi', 'lisi');
+INSERT INTO `student` (`id`, `user_name`, `user_password`) VALUES ('3', 'wangwu', 'wangwu');
+

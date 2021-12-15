@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/001-springboot-first/pom.xml" />
+        <option value="$PROJECT_DIR$/002-springboot-first/pom.xml" />
+        <option value="$PROJECT_DIR$/003-springboot-coustom-configuration-properties/pom.xml" />
+        <option value="$PROJECT_DIR$/004-springboot-first/pom.xml" />
+        <option value="$PROJECT_DIR$/004-springboot-jsp/pom.xml" />
+        <option value="$PROJECT_DIR$/005-springboot-mybatis-1/pom.xml" />
+        <option value="$PROJECT_DIR$/005-springboot-mybatis-2/pom.xml" />
+        <option value="$PROJECT_DIR$/006-springboot-transactional/pom.xml" />
+        <option value="$PROJECT_DIR$/007-springboot-other-springmvc-annotation/pom.xml" />
+        <option value="$PROJECT_DIR$/008-springboot-redis/pom.xml" />
+        <option value="$PROJECT_DIR$/008-springboot-redis-hcct/pom.xml" />
+        <option value="$PROJECT_DIR$/009-springboot-dubbo-interface/pom.xml" />
+        <option value="$PROJECT_DIR$/009-springboot-dubbo-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/009-springboot-dubbo-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/010-springboot-duboo-redis-zookeeper-mybatis-interface/pom.xml" />
+        <option value="$PROJECT_DIR$/010-springboot-dubbo-redis-zookeeper-mybatis-jsp-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/010-springboot-dubbo-redis-zookeeper-mybatis-jsp-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/010-springboot-duboo-redis-zookeeper-mybatis-jsp-interface/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

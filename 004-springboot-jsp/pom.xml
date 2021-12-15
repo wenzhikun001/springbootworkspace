@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <parent>
+        <groupId>org.springframework.boot</groupId>
+        <artifactId>spring-boot-starter-parent</artifactId>
+        <version>2.5.6</version>
+        <relativePath/> <!-- lookup parent from repository -->
+    </parent>
+    <groupId>com.bj.springboot</groupId>
+    <artifactId>004-springboot-jsp</artifactId>
+    <version>0.0.1-SNAPSHOT</version>
+    <name>004-springboot-jsp</name>
+    <description>Demo project for Spring Boot</description>
+    <properties>
+        <java.version>1.8</java.version>
+    </properties>
+    <dependencies>
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-web</artifactId>
+        </dependency>
+
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-test</artifactId>
+            <scope>test</scope>
+        </dependency>
+        <!--SpringBoot框架内嵌Tomcat解析jsp的依赖-->
+        <dependency>
+            <groupId>org.apache.tomcat.embed</groupId>
+            <artifactId>tomcat-embed-jasper</artifactId>
+        </dependency>
+    </dependencies>
+
+    <build>
+        <!--SpringBoot框架集成jsp文件编辑的路径 META-INF/resources-->
+        <resources>
+            <resource>
+                <!--源文件路径-->
+                <directory>src/main/webapp</directory>
+                <!--指定编译的路径-->
+                <targetPath>META-INF/resources</targetPath>
+                <!--需要编译的文件-->
+                <includes>
+                    <include>*.*</include>
+                </includes>
+            </resource>
+            <!--再去指定原有文件的路径，否则都会编译到META-INF/resources文件中-->
+            <resource>
+                <directory>src/main/resources</directory>
+                <includes>
+                    <!--**/*.* 子包下面的任何文件-->
+                    <include>**/*.*</include>
+                </includes>
+            </resource>
+        </resources>
+        <plugins>
+            <plugin>
+                <groupId>org.springframework.boot</groupId>
+                <artifactId>spring-boot-maven-plugin</artifactId>
+            </plugin>
+        </plugins>
+    </build>
+
+</project>

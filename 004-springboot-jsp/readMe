@@ -1,0 +1,4 @@
+springBoot集成jsp的思路
+1、创建一个webapp来存放jsp页面，因为springBoot建议使用templates模板
+2、添加springBoot工程内嵌Tomcat对jsp解析的一个依赖(因为springBoot官方的tomcat没有办法加载jsp)
+3、SpringBoot工程指定了jsp文件编辑的路径 META-INF/resources

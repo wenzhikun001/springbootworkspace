@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/001-springboot-first/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/002-springboot-first/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/003-springboot-coustom-configuration-properties/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/004-springboot-jsp/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/005-springboot-mybatis-1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/005-springboot-mybatis-2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/006-springboot-transactional/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/007-springboot-other-springmvc-annotation/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/008-springboot-redis-hcct/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/008-springboot-redis/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/009-springboot-dubbo-consumer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/009-springboot-dubbo-provider/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/010-springboot-dubbo-redis-zookeeper-mybatis-jsp-consumer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/010-springboot-dubbo-redis-zookeeper-mybatis-jsp-provider/src/main/java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

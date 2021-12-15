@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e4145d64-8de9-4aff-9d2e-35c5ab3e35c7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="21cZe6XVnn3NMhuzvh4Vi1dsGwJ" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="foldersAlwaysOnTop" value="false" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="FaRenDuiBi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dianzi.faren.FaRenDuiBi" />
+      <module name="dianzizhengzhao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dianzi.faren.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GetFilesName" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dianzi.GetFilesName" />
+      <module name="dianzizhengzhao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dianzi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.dianzi.Main" />
+      <module name="dianzizhengzhao" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dianzi.Test1" />
+      <module name="dianzizhengzhao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dianzi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dianzi.Test2" />
+      <module name="dianzizhengzhao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dianzi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Test2" />
+        <item itemvalue="Application.Test1" />
+        <item itemvalue="Application.FaRenDuiBi" />
+        <item itemvalue="Application.GetFilesName" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e4145d64-8de9-4aff-9d2e-35c5ab3e35c7" name="Default Changelist" comment="" />
+      <created>1638242427821</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1638242427821</updated>
+      <workItem from="1638242431909" duration="5542000" />
+      <workItem from="1638352119111" duration="1258000" />
+      <workItem from="1638503657550" duration="5437000" />
+      <workItem from="1638772629116" duration="7099000" />
+      <workItem from="1638788642153" duration="937000" />
+      <workItem from="1638842396221" duration="8771000" />
+      <workItem from="1638867955860" duration="343000" />
+      <workItem from="1638875015644" duration="41000" />
+      <workItem from="1638875085861" duration="33000" />
+      <workItem from="1638929566955" duration="9538000" />
+      <workItem from="1639031178534" duration="1222000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1022" y="216" key="#com.intellij.ide.util.MemberChooser" timestamp="1638849154181">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="1022" y="216" key="#com.intellij.ide.util.MemberChooser/0.0.1600.860@0.0.1600.860" timestamp="1638849154181" />
+    <state x="580" y="188" key="FileChooserDialogImpl" timestamp="1638855788262">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="580" y="188" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1638855788262" />
+    <state width="1557" height="401" key="GridCell.Tab.0.bottom" timestamp="1639040381621">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="401" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1639040381621" />
+    <state width="1557" height="401" key="GridCell.Tab.0.center" timestamp="1639040381621">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="401" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1639040381621" />
+    <state width="1557" height="401" key="GridCell.Tab.0.left" timestamp="1639040381621">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="401" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1639040381621" />
+    <state width="1557" height="401" key="GridCell.Tab.0.right" timestamp="1639040381621">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="401" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1639040381621" />
+    <state width="1557" height="401" key="GridCell.Tab.1.bottom" timestamp="1639040381622">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="401" key="GridCell.Tab.1.bottom/0.0.1600.860@0.0.1600.860" timestamp="1639040381622" />
+    <state width="1557" height="401" key="GridCell.Tab.1.center" timestamp="1639040381622">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="401" key="GridCell.Tab.1.center/0.0.1600.860@0.0.1600.860" timestamp="1639040381622" />
+    <state width="1557" height="401" key="GridCell.Tab.1.left" timestamp="1639040381622">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="401" key="GridCell.Tab.1.left/0.0.1600.860@0.0.1600.860" timestamp="1639040381622" />
+    <state width="1557" height="401" key="GridCell.Tab.1.right" timestamp="1639040381622">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="401" key="GridCell.Tab.1.right/0.0.1600.860@0.0.1600.860" timestamp="1639040381622" />
+    <state x="492" y="257" key="com.intellij.ide.util.TipDialog" timestamp="1638788643462">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="492" y="257" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1638788643462" />
+    <state x="707" y="38" width="784" height="822" key="find.popup" timestamp="1638936861779">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="707" y="38" width="784" height="822" key="find.popup/0.0.1600.860@0.0.1600.860" timestamp="1638936861779" />
+    <state x="334" y="32" key="new project wizard" timestamp="1638856027964">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="334" y="32" key="new project wizard/0.0.1600.860@0.0.1600.860" timestamp="1638856027964" />
+    <state x="463" y="180" width="672" height="678" key="search.everywhere.popup" timestamp="1638242487490">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="463" y="180" width="672" height="678" key="search.everywhere.popup/0.0.1600.860@0.0.1600.860" timestamp="1638242487490" />
+  </component>
+</project>

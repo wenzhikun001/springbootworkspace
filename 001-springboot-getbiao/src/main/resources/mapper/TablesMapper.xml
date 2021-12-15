@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.bj.mapper.TablesMapper">
+  <select id="getFindTableNameAndCount" resultType="com.bj.modle.Tables">
+        select TABLE_SCHEMA,TABLE_NAME from information_schema.`TABLES` where `TABLE_SCHEMA`= 'sys';
+  </select>
+  <select id="getFindTableSumCount" parameterType="com.bj.modle.Count" resultType="Integer">
+    select count(*) from ${tableName}
+  </select>
+    <select id="getFindTableSumSJDCount" parameterType="com.bj.modle.Count" resultType="Integer">
+        select count(*) from ${tableName} where S_CREATETIME>#{creatime};
+    </select>
+  <select id="getTablesName" parameterType="com.bj.modle.Count" resultType="Map">
+        SHOW CREATE TABLE ${tableName}
+  </select>
+    <select id="getTablescolumnsComment" parameterType="com.bj.modle.Count" resultType="com.bj.modle.TablesColumns">
+        show full columns from ${tableName}
+    </select>
+</mapper>
