@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="489ba7c8-7cb1-4a48-b321-9eb166777d88" name="Default Changelist" comment="" />
+    <list default="true" id="489ba7c8-7cb1-4a48-b321-9eb166777d88" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -59,6 +61,7 @@
     <option name="skipTests" value="true" />
   </component>
   <component name="ProjectId" id="212X1lAgujOVkxVwF2XnclnogEA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="autoscrollToSource" value="true" />
@@ -311,6 +314,7 @@
       <workItem from="1639031148714" duration="614000" />
       <workItem from="1639105341145" duration="901000" />
       <workItem from="1639531745790" duration="6590000" />
+      <workItem from="1639556699395" duration="298000" />
     </task>
     <servers />
   </component>
