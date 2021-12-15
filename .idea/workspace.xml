@@ -36,6 +36,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -415,10 +418,10 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="803" y="196" key="chooseDestDirectoryDialog/0.0.1600.860@0.0.1600.860" timestamp="1638181955429" />
-    <state x="492" y="257" key="com.intellij.ide.util.TipDialog" timestamp="1639531744339">
+    <state x="492" y="257" key="com.intellij.ide.util.TipDialog" timestamp="1639556698925">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="492" y="257" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1639531744339" />
+    <state x="492" y="257" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1639556698925" />
     <state x="571" y="160" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1637234170256">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
